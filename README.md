@@ -1,3 +1,16 @@
+# Learn Docker Journey
+
+Welcome to the Docker learning repository! This project tracks a step-by-step curriculum to master Docker, starting from the basics and moving to advanced multi-container orchestration.
+
+## Curriculum
+
+* **[Day 1](Day_1.md)**: Introduction to Docker basics. Covers images, containers, Dockerfiles, building (`docker build`), running (`docker run`), ports, and volumes.
+* **[Day 2](Day_2.md)**: Masterclass on Docker Compose. Covers orchestrating multi-container applications, networking, and includes a hands-on project with two Flask microservices (`docker-compose-flask-project`).
+
+---
+
+## Quick Reference Summary
+
 This is a comprehensive guide to using Docker for building, deploying, and managing containerized applications. Here's a summary of the key points:
 
 1. **Dockerfile**: A recipe for creating a single container from your application code.
