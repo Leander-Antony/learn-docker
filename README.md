@@ -6,6 +6,11 @@ Welcome to the Docker learning repository! This project tracks a step-by-step cu
 
 * **[Day 1](Day_1.md)**: Introduction to Docker basics. Covers images, containers, Dockerfiles, building (`docker build`), running (`docker run`), ports, and volumes.
 * **[Day 2](Day_2.md)**: Masterclass on Docker Compose. Covers orchestrating multi-container applications, networking, and includes a hands-on project with two Flask microservices (`docker-compose-flask-project`).
+* **[Day 3](Day_3.md)**: Production-Ready Docker. Covers full backend systems with PostgreSQL databases, Redis caching, persistent volumes, environment variables, and container health checks (`task-management-api`).
+* **[Day 4](Day_4.md)**: Nginx & Production Networking. Teaches how real production traffic flows, utilizing Nginx as a reverse proxy, hiding application containers, load balancing, and advanced Docker networking (`nginx-docker-production`).
+* **[Day 5](Day_5.md)**: CI/CD with Docker. Teaches automation using GitHub Actions, including automated testing (pytest), Docker Hub integration, deployment scripts, and CI/CD best practices.
+* **[Day 6](Day_6.md)**: Cloud Deployment with Docker. Covers provisioning VPS servers (IaaS), SSH, DNS configuration, HTTPS/SSL via Certbot, server security, and bridging CI/CD pipelines to live cloud servers.
+* **[Day 7](Day_7.md)**: Kubernetes & Docker Swarm. Covers enterprise container orchestration, highly available clusters, Pods, Deployments, Services, auto-scaling, rolling updates, and MLOps integrations.
 
 ---
 
